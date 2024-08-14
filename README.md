@@ -4,6 +4,7 @@
   </a>
 </p>
 
+
 # React Globe
 
 A sample repository of the different ways to configure [react-globe.gl](https://github.com/vasturiano/react-globe.gl)
